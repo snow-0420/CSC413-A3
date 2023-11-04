@@ -1,2 +1,2 @@
 # CSC413-A3
-NMT &amp; fine-tuning BERT (pre-trained LMs)
+Build a transformer NMT to perform translation, and fine-tuned BERT to perform desired task.
